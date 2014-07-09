@@ -2,8 +2,7 @@
    The port number is passed as an argument 
    This version runs forever, forking off a separate 
    process for each connection
-   gcc server2.c -lsocket
-*/
+   gcc server2.c -lsocket */
 #include <stdio.h>
 #include <sys/types.h> 
 #include <sys/socket.h>
