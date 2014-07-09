@@ -1,10 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-<<<<<<< HEAD
 #include <string.h>
 #include <strings.h>
-=======
->>>>>>> 7d458eb2c2de5a240aa7f50d988b155a72926fa2
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <netinet/in.h>
