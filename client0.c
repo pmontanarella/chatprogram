@@ -1,4 +1,3 @@
-/************tcpclient.c************************/
 /* Header files needed to use the sockets API. */
 /* File contains Macro, Data Type and */
 /* Structure definitions along with Function */
