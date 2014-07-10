@@ -139,7 +139,7 @@ getpeername()
 
 NAME
 
-       getpeername() - get who is at the other end of a connected stream socket
+       getpeername() - identify the other end of a connected stream socket
 SYNOPSIS
        #include <sys/socket.h>
        int getpeername(int sockfd, struct sockaddr *addr, int *addrlen);
