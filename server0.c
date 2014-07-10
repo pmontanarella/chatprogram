@@ -1,4 +1,3 @@
-/*******************udpserver.c*****************/
 /* Header files needed to use the sockets API. */
 /* File contain Macro, Data Type and Structure */
 /* definitions along with Function prototypes. */
