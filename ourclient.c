@@ -1,5 +1,3 @@
-// From http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html.
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
