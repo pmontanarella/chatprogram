@@ -1,8 +1,3 @@
-// From http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html.
-
-/* A simple server in the internet domain using TCP
-   The port number is passed as an argument */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -11,7 +6,7 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 
-void error(char *msg)//called when system call fails
+void error(char *msg)
 {
     perror(msg);
     exit(1);
