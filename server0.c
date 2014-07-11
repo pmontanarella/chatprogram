@@ -1,3 +1,4 @@
+// An example from http://www.tenouk.com/Module39.html.
 /* Header files needed to use the sockets API. */
 /* File contain Macro, Data Type and Structure */
 /* definitions along with Function prototypes. */
